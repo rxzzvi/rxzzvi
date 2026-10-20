@@ -94,6 +94,15 @@ Towards cloud, cybersecurity and AI-driven automation, combining my Computer Sci
 
 ---
 
+## 🎬 Content Creation
+
+| Page | What it is | Links |
+|:---|:---|:---|
+| **WonderBuds TV** | Kids' stories, songs and learning videos in English and Tamil, made with generative AI tools | [YouTube](https://www.youtube.com/@WonderBuds_TV) · [Instagram](https://www.instagram.com/wonderbudstv) · [TikTok](https://www.tiktok.com/@wonderbudstv) · [Facebook](https://www.facebook.com/people/WonderBuds-TV/61593186009426) |
+| **DXB Portraits** | Short-form videos on Dubai's landmarks, people and moments | [YouTube](https://www.youtube.com/@dxbportraits) · [Instagram](https://www.instagram.com/dxb.portraits) · [TikTok](https://www.tiktok.com/@dxbportraits) · [Facebook](https://www.facebook.com/dxbportraits) |
+
+---
+
 ## 🧰 Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
